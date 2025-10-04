@@ -6,7 +6,7 @@ from classes import pessoa, item
 erroValor = 'Entrada inválida! Coloque apenas números.'
 
 pessoa = pessoa.Pessoa()
-item = pessoa.Item()
+item = item.Item()
 
 pessoa.nome = str(input('Olá, eu sou seu personal trainer virtual, qual o seu nome?\n'))
 
