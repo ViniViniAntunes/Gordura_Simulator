@@ -1,7 +1,7 @@
 # coding: utf8
 
 from time import sleep
-import classes.pessoa
+from classes import pessoa, item
 
 erroValor = 'Entrada inválida! Coloque apenas números.'
 
